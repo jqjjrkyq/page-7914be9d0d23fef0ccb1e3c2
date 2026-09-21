@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f47d4a6b3c58ac1c49ae47ab",
+  "owner": "jqjjrkyq",
+  "repo": "page-7914be9d0d23fef0ccb1e3c2",
+  "title": "新世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7914be9d0d23fef0ccb1e3c2",
+      "a": "新世界",
+      "b": "2027最新官网",
+      "entity": "新世界",
+      "brand": "新世界",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "94959c0e0cc8c6c32b9b48dcc3098d1c994c8a9b6cdb4d1e44ff5778ccaf40a5",
+      "content": {
+        "primary_entity": "新世界",
+        "keyword1": "新世界",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，导入订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后打开客户端导入订阅，就能开始使用新世界。",
+          "AI_CLOSING_TITLE": "立刻配置新世界",
+          "AI_DESCRIPTION": "，专注为跨境访问、流媒体与游戏场景提供稳定的海外加速服务。套餐从基础版到团队版覆盖 3 至 20 台设备，月付与年付均支持，年付可节省一定费用。节点采用普通线路与 IPLC 专线组合，旗舰版与团队版在高带宽和流媒体解锁上更有优势。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度了解新世界的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合单人或轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量支持 5 台设备，兼顾流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量支持 20 台设备，并含 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按周期付费用",
+          "AI_GUIDE_INTRO": "三步完成新世界的选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "新世界为需要访问海外网络资源的用户提供加速订阅，覆盖基础版、旗舰版和团队版三种选择。用户可根据设备数量和每月流量需求挑选版本，再配合对应客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "海外加速按需选套餐",
+          "AI_HIGHLIGHT_1": "月付年付任选",
+          "AI_HIGHLIGHT_2": "覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "普通线路与 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版适合单人轻量，旗舰版兼顾流媒体与游戏，团队版面向多设备共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版与团队版中挑选一个版本。",
+          "AI_STEP_TEXT_2": "查看所选版本支持的设备数量、线路类型及流媒体解锁范围，确认是否满足需要。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "新世界加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、适合3台设备同时使用，年付150元；旗舰版每月300GB流量、支持5台设备，年付350元；团队版每月1000GB流量、支持20台设备，年付850元。",
+          "AI_FAQ_ANSWER_2": "在客户端中使用订阅导入功能，粘贴订阅链接，更新节点列表即可，具体操作可参考对应客户端的订阅配置说明。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备，可覆盖手机、电脑、平板等常用终端的日常使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供IPLC专线游戏加速优化和7x24优先工单支持，团队版则有VIP专属高带宽节点与企业定制路由，适合对稳定性要求更高的场景。",
+          "AI_FAQ_ANSWER_5": "月付适合短期试用，年付比月付更划算：基础版年付150元、旗舰版年付350元、团队版年付850元，可根据实际使用时长选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "新世界的套餐分别包含多少流量和设备数？",
+          "AI_FAQ_QUESTION_2": "订阅链接如何导入客户端使用？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持同时在线几台设备？",
+          "AI_FAQ_QUESTION_4": "哪些套餐适合游戏加速或企业场景？",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "snbww.cn",
+    "host": "snbww.cn"
+  },
+  "file_hashes": {
+    "index.html": "65513364c7ded49ec3b9f2ecdeb77e2a4ead21b5b527e11b60e6661dfe02746b",
+    "sitemap.xml": "68573cb39d78e17f6be5893b4500aeddb886c7412e7fcd9f178115bfc7427b35",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c0fc7052064ee69e4412250d0bd903cbf4f037397c40b4d186e0abbeb39775be",
+    "robots.txt": "b43e529f2653bab8cd0a7fc7e889fc8a30c0eeb9263d48b38a5089a9d32001ef",
+    "113557ffb5b5f74ceeba957b2fcfe96d.txt": "89007574887bf4b055cd66d954788accf8253cbb5944151185e1f3ee098b9443"
+  },
+  "revision": "6c86cd8d95cd2b18c9ae619333c2138d8daed5892ba3f47e9735fd48364ecd98"
+}
